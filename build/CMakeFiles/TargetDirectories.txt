@@ -1,0 +1,3 @@
+/Users/deepaktalwar/repos/cmake-template/build/CMakeFiles/main.dir
+/Users/deepaktalwar/repos/cmake-template/build/CMakeFiles/edit_cache.dir
+/Users/deepaktalwar/repos/cmake-template/build/CMakeFiles/rebuild_cache.dir
